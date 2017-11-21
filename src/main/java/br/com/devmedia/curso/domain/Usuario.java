@@ -29,7 +29,7 @@ public class Usuario {
 	
 	public Usuario() {
 		super();
-	this.nome="";
+	
 	}	
 
 	public Usuario(Long id, String nome, String sobrenome) {
